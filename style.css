@@ -42,3 +42,7 @@ input {
     height: 500px;
     border: none;
 }
+.img-responsive{
+    height: 200pxx;
+    width: 200px;
+}
